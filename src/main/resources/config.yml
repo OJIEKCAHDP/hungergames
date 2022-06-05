@@ -1,0 +1,32 @@
+arena:
+  first-position: none
+  second-position: none
+
+map: none
+
+waiting-lobby: none
+waiting-time: none
+
+chest-refill-time: none #в секундах
+ender-chest-open-time: none #в секундах
+
+damage-cooldown: none
+
+spawn-locations: none
+
+npc-teleport-location: none
+
+mobs:
+  '1':
+    type: ZOMBIE
+    location: world;1;1;1;0;0
+    weapon: DIAMOND_SWORD
+    armor:
+      - GOLDEN_HELMET
+      - null
+      - DIAMOND_LEGGINGS
+      - LEATHER_BOOTS
+
+chests: none
+
+ender-chests: none

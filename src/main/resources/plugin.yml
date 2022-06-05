@@ -1,0 +1,8 @@
+name: ${project.name}
+version: ${project.version}
+main: dev.ojiekcahdp.hungergames.Main
+api-version: 1.16
+depend:
+  - DreamLib
+  - ProtocolLib
+  - Citizens
